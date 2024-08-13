@@ -1,0 +1,4 @@
+karena kemungkinan besar kedepannya ada sebuah project yang dimana pasti berkelompok,
+jadi saya tidak bisa menentukan rencana kedepannya, karena itu semua keputusan bersama yaitu
+berkelompok. jika hanya saya sendiri, maka saya akan membuat sebuah website bertemakan rumah sakit
+mulai dari halaman login, dashboard, daftar dokter, suster, resepsionis, absensi untuk semua pegawai dll
