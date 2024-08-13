@@ -1,0 +1,1 @@
+Ini adalah file readme apapun itu untuk sedikit menginformasikan tentang apa yang kita buat seperti key, tutorial, atau semacamnya.
